@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vn6yUNuH87iBmIbGJ2hY3KM1SuhdndlJ6cwH+0SQ6eNwGbWYqM66PYzE8xNBGiWeTkOg1BzxHKdn9UEjaa58yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gustavo.bosco\\Projetos\\portfolio_backend\\weather_application\\weather_application\\weather_application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gustavo.bosco\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\gustavo.bosco\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\gustavo.bosco\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\gustavo.bosco\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\gustavo.bosco\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\gustavo.bosco\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
