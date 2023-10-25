@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\weather_application.props" />
+</Project>

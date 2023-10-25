@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gustavo.bosco\\Projetos\\portfolio_backend\\weather_application\\weather_application\\weather_application.csproj": {}
+    "C:\\Users\\gustavo.bosco\\Projetos\\weather-prediction-portfolio-backend\\weather_application\\weather_application\\weather_application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gustavo.bosco\\Projetos\\portfolio_backend\\weather_application\\weather_application\\weather_application.csproj": {
+    "C:\\Users\\gustavo.bosco\\Projetos\\weather-prediction-portfolio-backend\\weather_application\\weather_application\\weather_application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gustavo.bosco\\Projetos\\portfolio_backend\\weather_application\\weather_application\\weather_application.csproj",
+        "projectUniqueName": "C:\\Users\\gustavo.bosco\\Projetos\\weather-prediction-portfolio-backend\\weather_application\\weather_application\\weather_application.csproj",
         "projectName": "weather_application",
-        "projectPath": "C:\\Users\\gustavo.bosco\\Projetos\\portfolio_backend\\weather_application\\weather_application\\weather_application.csproj",
+        "projectPath": "C:\\Users\\gustavo.bosco\\Projetos\\weather-prediction-portfolio-backend\\weather_application\\weather_application\\weather_application.csproj",
         "packagesPath": "C:\\Users\\gustavo.bosco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gustavo.bosco\\Projetos\\portfolio_backend\\weather_application\\weather_application\\obj\\",
+        "outputPath": "C:\\Users\\gustavo.bosco\\Projetos\\weather-prediction-portfolio-backend\\weather_application\\weather_application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gustavo.bosco\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,6 +41,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
